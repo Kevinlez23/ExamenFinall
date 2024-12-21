@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\vistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\vistas\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\css\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\vistas\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\vistas\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\capamodelo\\cls_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\capamodelo\\cls_empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\capalogica\\cls_lempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\capalogica\\cls_lempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|c:\\users\\kevin\\source\\repos\\examenfinal\\examenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AC650CA-8FC3-4653-8D3F-652EA4324025}|ExamenFinal\\ExamenFinal.csproj|solutionrelative:examenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Site1.Master",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Site1.Master",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Site1.Master",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T03:49:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\css\\Menu.css",
+              "RelativeDocumentMoniker": "ExamenFinal\\css\\Menu.css",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\css\\Menu.css",
+              "RelativeToolTip": "ExamenFinal\\css\\Menu.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T03:47:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleados.aspx.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Empleados.aspx.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleados.aspx.cs",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Empleados.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:17:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleados.aspx",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleados.aspx",
+              "RelativeDocumentMoniker": "ExamenFinal\\Vistas\\Empleados.aspx",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Vistas\\Empleados.aspx",
+              "RelativeToolTip": "ExamenFinal\\Vistas\\Empleados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T03:12:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cls_Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaModelo\\cls_Empleados.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\CapaModelo\\cls_Empleados.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaModelo\\cls_Empleados.cs",
+              "RelativeToolTip": "ExamenFinal\\CapaModelo\\cls_Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:08:29.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cls_LEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\Cls_LEmpleados.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\CapaLogica\\Cls_LEmpleados.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\Cls_LEmpleados.cs",
+              "RelativeToolTip": "ExamenFinal\\CapaLogica\\Cls_LEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:48:04.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\DBconn.cs",
+              "RelativeDocumentMoniker": "ExamenFinal\\CapaLogica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\CapaLogica\\DBconn.cs",
+              "RelativeToolTip": "ExamenFinal\\CapaLogica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:47:05.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Web.config",
+              "RelativeDocumentMoniker": "ExamenFinal\\Web.config",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\ExamenFinal\\ExamenFinal\\Web.config",
+              "RelativeToolTip": "ExamenFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T02:44:56.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
